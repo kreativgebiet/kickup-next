@@ -7,6 +7,11 @@
   "author": "Nick Schmidt <nick@fintory.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "dev": "next src/",
+    "build": "next build src/",
+    "start": "next start src/"
+  },
   "dependencies": {
     "cowsay-browser": "^1.1.8",
     "next": "^4.2.3",
