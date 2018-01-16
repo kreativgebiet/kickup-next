@@ -1,0 +1,16 @@
+{
+  "name": "kickup-next",
+  "version": "1.0.0",
+  "description": "Kickup Boilerplate: Next.js",
+  "main": "index.js",
+  "repository": "https://github.com/kreativgebiet/kickup-next",
+  "author": "Nick Schmidt <nick@fintory.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cowsay-browser": "^1.1.8",
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
