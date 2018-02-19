@@ -13,9 +13,18 @@
     "start": "next start src/"
   },
   "dependencies": {
+    "@zeit/next-sass": "^0.0.9",
     "cowsay-browser": "^1.1.8",
-    "next": "^4.2.3",
+    "next": "^5.0.0",
+    "node-sass": "^4.7.2",
+    "nprogress": "^0.2.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "eslint": "^4.17.0",
+    "eslint-config-kreativgebiet": "^0.2.2",
+    "eslint-plugin-flowtype": "^2.44.0"
   }
 }

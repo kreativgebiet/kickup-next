@@ -1,0 +1,9 @@
+{
+  "parser": "babel-eslint",
+  "plugins": ["flowtype"],
+  "extends": "kreativgebiet",
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}
